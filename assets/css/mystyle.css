@@ -1,0 +1,9 @@
+.toplogo {
+	margin-top: 10px;
+}
+
+.header ul.nav li a:hover {
+	background: #1B2B9B;
+	color: #fff;
+}
+
