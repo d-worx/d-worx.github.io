@@ -62,13 +62,13 @@ layout: page
                                     <li>
                                         <a href="/"><i class="icon-home"></i><br />Home</a>
                                     </li>
-                                    <li>
+                                    <li {% if page.url contains '/services/' %}class="current-page"{% endif %}>
                                         <a href="/services/"><i class="icon-tasks"></i><br />Services</a>
                                     </li>
-                                    <li>
+                                    <li {% if page.url contains '/about/' %}class="current-page"{% endif %}>
                                         <a href="/about/"><i class="icon-user"></i><br />About</a>
                                     </li>
-                                    <li>
+                                    <li {% if page.url contains '/release/' %}class="current-page"{% endif %}>
                                         <a href="/release/"><i class="icon-bullhorn"></i><br />Releases</a>
                                     </li>
                                 </ul>
@@ -108,15 +108,15 @@ layout: page
                     <div class="widget span4">
                         <h4>ニュースリリース</h4>
 						<ul>
-						  <li><a href="">Read more...</a></li>
-						  <li><a href="">Read more...</a></li>
-						  <li><a href="">Read more...</a></li>
+						  <li class="relLabel"><a href="/2012/06/01/symbigun-.html">2012-06-01 ディー・ワークス、スマートフォンアプリのアクティブユニークユーザー数の計測に特化した無料解析サービスを提供開始</a></li>
+						  <li class="relLabel"><a href="/2011/11/16/-wellout-ntt-goo-.html">2011-11-16 ディー･ワークス、“welloutスマートフォンアプリ解析”をNTTレゾナントの「gooリサーチ」に機能提供開始</a></li>
+						  <li class="relLabel"><a href="/2011/08/02/-.html">2011-08-02 スマートフォンアプリ・サイト解析サービスをバージョンアップ ～より正確なスマートフォンユーザーの利用状況把握を実現～</a></li>
 						</ul>
                     </div>
                     <div class="widget span4">
                         <h4>個人情報保護方針</h4>
 						<ul>
-						  <li><a href="/privacy/statement.html">個人情報保護方針（プライバシーステートメント）</a></li>
+						  <li><a href="/privacy/statement.html">プライバシーステートメント</a></li>
 						  <li><a href="/privacy/disclosure.html">「開示等の求め」に応じる手続き等に関する事項</a></li>
 						  <li><a href="/privacy/purpose.html">個人情報の利用目的 </a></li>
 						</ul>

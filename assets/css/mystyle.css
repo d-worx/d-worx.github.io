@@ -7,3 +7,10 @@
 	color: #fff;
 }
 
+.relLabel {
+	width: 250px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis; /* Opera9,10対応 */
+}
