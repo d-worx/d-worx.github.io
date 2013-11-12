@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: 会社概要
 ---
 

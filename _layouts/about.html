@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: about
 ---
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>株式会社ディーワークス / ニュースリリース / {{ page.title }}</title>
+        <title>株式会社ディーワークス / {{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- CSS -->
@@ -60,13 +60,13 @@ layout: post
                                     <li>
                                         <a href="/"><i class="icon-home"></i><br />Home</a>
                                     </li>
-                                    <li>
+                                    <li {% if page.url contains '/services/' %}class="current-page"{% endif %}>
                                         <a href="/services/"><i class="icon-tasks"></i><br />Services</a>
                                     </li>
-                                    <li>
+                                    <li {% if page.url contains '/about/' %}class="current-page"{% endif %}>
                                         <a href="/about/"><i class="icon-user"></i><br />About</a>
                                     </li>
-                                    <li class="current-page">
+                                    <li {% if page.url contains '/release/' %}class="current-page"{% endif %}>
                                         <a href="/release/"><i class="icon-bullhorn"></i><br />Releases</a>
                                     </li>
                                 </ul>
@@ -82,23 +82,61 @@ layout: post
             <div class="container">
                 <div class="row">
                     <div class="span12">
-                        <i class="icon-bullhorn page-title-icon"></i>
-                        <h2><a href="/release">ニュースリリース</a> / </h2>
-						<p>{{ page.title }}</p>
+                        <i class="icon-user page-title-icon"></i>
+                        <h2>{{ page.title }}</h2>
                     </div>
                 </div>
             </div>
         </div>
 
-
         <div class="services-full-width container">
             <div class="row">
                 <div class="services-full-width-text span12">
-				<p class="meta">{{ page.date | date:"%Y-%m-%d" }}</p>
 				{{ content }}
                 </div>
             </div>
         </div>
+
+
+        <div class="team container">
+            <div class="team-title">
+                <h3>Board Members</h3>
+            </div>
+            <div class="row">
+                <div class="team-text span6">
+                    <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-frc3/405204_3107441283984_1443178628_n.jpg" width="64">
+                    <h4>泉　大五郎 / Daigoro Izumi （代表取締役）</h4>
+                    <p>1996年 多摩大学経営情報学部卒業<br>
+IIJメディアコミュニケーションズを経て、現職<br>
+当社におけるサービス企画、ビジネスデベロップメント、経営全般に携わる<br>
+2010年より日本で一番小規模な上場会社の取締役を務め、<br>
+上場会社に求められる実務全般に携わる<br>
+経営・IT・デジタルマーケティングに関する知見・経験の側面から<br>
+クライアントの課題解決に取り組む</p>
+
+                    <div class="social-links">
+                        <a class="facebook" href=""></a>
+                        <a class="twitter" href=""></a>
+                    </div>
+                </div>
+                <div class="team-text span6">
+                    <img src="https://pbs.twimg.com/profile_images/1112849772/faceicon_bigger.png" width="64">
+                    <h4>西島　幸一郎 / Koichiro Nishijima （CTO）</h4>
+                    <p>1997年 日本大学生産工学部卒業<br>
+インターネットイニシアティブ（IIJ）を経て、1998年より現職<br>
+ソフトウェア開発/システムアーキテクトとして10年以上の経験を持ち、<br>
+ネットワーク設計から、Webサイト開発、大規模データ解析までを幅広く手がける<br>
+2011年より沖縄県宜野湾市在住。<br>
+<a href="http://jaws-ug.jp/bc/okinawa/">JAWS-UG沖縄</a>の副代表として、クラウドの普及活動に勤しむ</p>
+                    <div class="social-links">
+                        <a class="facebook" href=""></a>
+                        <a class="twitter" href=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		<hr />
 
 		{% include footer.html %}
 		{% include script.html %}
