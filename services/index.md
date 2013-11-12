@@ -17,7 +17,7 @@ title: 弊社が提供する価値 / サービスのご紹介
 
 #### クラウドのチカラをビジネスに
 
-![AWS テクノロジーパートナー](/assets/img/apn_logo.png)
+![AWS テクノロジーパートナー](http://cdn.d-worx.co.jp/assets/img/apn_logo.png)
 
 弊社は[AWS テクノロジーパートナー](http://aws.amazon.com/jp/solutions/solution-providers-japan/)として登録されており、社内に[AWS認定ソリューションアーキテクト](http://aws.amazon.com/jp/certification/)を擁しております。AWSのサービスを自社のビジネスに活用したいとお考えのかたは、是非ご相談下さい。
 
@@ -39,13 +39,13 @@ title: 弊社が提供する価値 / サービスのご紹介
 
 #### 自社サービス
 
-![ConnectBass](/assets/img/cb_logo.png)
+![ConnectBass](http://cdn.d-worx.co.jp/assets/img/cb_logo.png)
 
 <a href="http://connectbass.blogspot.jp/">Teaser blog</a>
 
 *****
 
-![wellout](/assets/img/wellout_logo.png)
+![wellout](http://cdn.d-worx.co.jp/assets/img/wellout_logo.png)
 
 **モバイルマーケティング解析ソリューション "wellout"（ウェルアウト）**
 
@@ -53,7 +53,7 @@ title: 弊社が提供する価値 / サービスのご紹介
 
 *****
 
-![symbigun](/assets/img/symbigun_logo.png)
+![symbigun](http://cdn.d-worx.co.jp/assets/img/symbigun_logo.png)
 
 **無料から使えるスマートフォンアプリ利用状況分析サービス "symbigun"（シンビガン）**
 

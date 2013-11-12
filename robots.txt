@@ -1,0 +1,6 @@
+# robots.txt for www.d-worx.co.jp
+
+User-agent: *
+
+Disallow: /work/
+
