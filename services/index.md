@@ -41,7 +41,9 @@ title: 弊社が提供する価値 / サービスのご紹介
 
 ![ConnectBass](/assets/img/cb_logo.png)
 
-**Coming soon!**
+<a href="http://connectbass.blogspot.jp/">Teaser blog</a>
+
+*****
 
 ![wellout](/assets/img/wellout_logo.png)
 
@@ -49,9 +51,12 @@ title: 弊社が提供する価値 / サービスのご紹介
 
 スマホアプリ、スマホサイト、もちろんフューチャーフォンサイトも含め、モバイル環境のアクセス解析、効果測定ツールの老舗です。詳しくは [http://www.wellout.net/](http://www.wellout.net/) をご覧下さい。
 
+*****
+
 ![symbigun](/assets/img/symbigun_logo.png)
 
 **無料から使えるスマートフォンアプリ利用状況分析サービス "symbigun"（シンビガン）**
 
 スマートフォンアプリのアクティブユニークユーザー数の計測に特化した無料解析サービスです。詳しくは [http://www.symbigun.com/](http://www.symbigun.com/) をご覧下さい。
 
+*****
