@@ -14,3 +14,13 @@
 	text-overflow: ellipsis;
 	-o-text-overflow: ellipsis; /* Opera9,10対応 */
 }
+
+.team-text {
+	padding-top: 10px;
+	height: 335px;
+}
+
+.biotext {
+	text-align: left;
+	padding: 0 15px;
+}
