@@ -46,7 +46,7 @@ Webフォームまたは、ConnectBass管理画面から、Google Appsの共有�
 
 ###サービスの詳細・利用料金
 ####・サービスの詳細
-[http://www.connectbass.com/](http://www.connectbass.com/)  
+[http://www.connectbass.com/](https://www.connectbass.com/ja/?utm_source=release&utm_medium=referral&utm_campaign=dwwww)  
 ConnectBassの利用には、Google Apps for Businessが別途必要です。
 
 ####・利用料金
