@@ -78,4 +78,4 @@ ConnectBassは、楽器のベースがメロディとビートの橋渡し役を
 > AWS Partner Network テクノロジーパートナー
 ※“Google”および”Google Apps”、”Google Analytics”は、Google Inc の商標または登録商標です。
 
-**[ 本リリースに関するお問い合わせ先]**(https://www.connectbass.com/ja/contact.html?utm_source=release&utm_medium=referral&utm_campaign=dwwww)
+**[本リリースに関するお問い合わせ先]**(https://www.connectbass.com/ja/contact.html?utm_source=release&utm_medium=referral&utm_campaign=dwwww)
