@@ -59,25 +59,25 @@ ConnectBassの利用には、Google Apps for Businessが別途必要です。
 また、8月までは期間限定で、すべてのプランが無料でご利用いただけます。
 
 
-**Google Apps について**
+###Google Apps について
 　Google Apps は、あらゆる規模の組織に向けてシンプルかつ高度なコミュニケーションとコラボレーション ツールを提供します。Gmail、Google カレンダーにより、コラボレーションが容易になります。  
 　Google ドライブのドキュメント、スプレッドシート、プレゼンテーションを使用して、ファイルを共有したり、リアルタイムで共同作業したりできます。常に最新バージョンのファイルで作業することができ、いつでもどこからでもアクセスが可能です。
  
 
-**株式会社ディー・ワークスについて**
+###株式会社ディー・ワークスについて
 　ディー・ワークスは、貯まったデータをいかに価値のある情報に変えることができるかを事業コンセプトに、クラウドサービスの開発・提供に取り組んでいます。
 
-***会社概要：***
+####会社概要：
 株式会社ディー・ワークス
 代表者：代表取締役　泉　大五郎
 設　立：1996年6月
 所在地：東京都世田谷区深沢1-29-9
 資本金：2,500万円
-事業内容：
-> Google Apps拡張コンタクト管理サービス「ConnectBase」の企画・開発・提供
-> モバイルマーケティング解析ソリューション「wellout」の企画・開発・提供
-> Google Apps 販売パートナー
-> AWS Partner Network テクノロジーパートナー
+事業内容：Google Apps拡張コンタクト管理サービス「ConnectBase」の企画・開発・提供  
+モバイルマーケティング解析ソリューション「wellout」の企画・開発・提供  
+Google Apps 販売パートナー  
+AWS Partner Network テクノロジーパートナー
 ※“Google”および”Google Apps”、”Google Analytics”は、Google Inc の商標または登録商標です。
 
-**[本リリースに関するお問い合わせ先]**(https://www.connectbass.com/ja/contact.html?utm_source=release&utm_medium=referral&utm_campaign=dwwww)
+###本リリースに関するお問い合わせ先
+お問い合わせは[こちら](https://www.connectbass.com/ja/contact.html?utm_source=release&utm_medium=referral&utm_campaign=dwwww)
