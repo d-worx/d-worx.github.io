@@ -41,7 +41,9 @@ title: 弊社が提供する価値 / サービスのご紹介
 
 ![ConnectBass](http://cdn.d-worx.co.jp/assets/img/cb_logo.png)
 
-<a href="http://connectbass.blogspot.jp/">Teaser blog</a>
+**Google Apps拡張コンタクト管理サービス "ConnectBass"（コネクトバス）**
+
+お客様からの問い合わせ、連絡先情報をGoogle Apps と連携して一元管理するコンタクトマネジメントツールです。詳しくは [https://www.connectbass.com/ja/](https://www.connectbass.com/ja/?utm_source=service&utm_medium=referral&utm_campaign=dwwww) をご覧下さい。
 
 *****
 
