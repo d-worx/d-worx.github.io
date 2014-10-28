@@ -55,10 +55,3 @@ title: 弊社が提供する価値 / サービスのご紹介
 
 *****
 
-![symbigun](http://cdn.d-worx.co.jp/assets/img/symbigun_logo.png)
-
-**無料から使えるスマートフォンアプリ利用状況分析サービス "symbigun"（シンビガン）**
-
-スマートフォンアプリのアクティブユニークユーザー数の計測に特化した無料解析サービスです。詳しくは [http://www.symbigun.com/](http://www.symbigun.com/) をご覧下さい。
-
-*****
