@@ -15,7 +15,7 @@ tags: []
 
  
 ###■ ConnectBassコンタクトマネージャーについて
-[https://www.connectbass.com/ja/contactmanager.html](http://bit.ly/119AUE0)
+[https://www.connectbass.com/ja/contactmanager.html](http://bit.ly/119AUE0)  
 　ConnectBassコンタクトマネージャーは、顧客情報の追加・編集・削除をする画面インターフェイスを提供します。顧客情報は Google Apps の共有連絡先として、Gmail のアドレス帳としてだけでなく、スマートフォン（iPhone, Android）の電話帳からも利用することができ、組織全体で一つの顧客情報を利用可能です。
 　またWebフォームからの問い合わせも、CSVなどで管理するのではなく、顧客情報に直接追加することができ、情報が分散することがありません。
 　顧客情報は、Google Apps のシステム内で管理されますので、安心して利用できます。
@@ -33,10 +33,10 @@ ConnectBass画面から、顧客情報を追加・編集・削除を行うイン
 登録完了時に、自動メール返信、ファイルダウンロードをすることもできます
 
 ####利用料金：
-10ユーザーまで　月額3,000円（税別） 
+10ユーザーまで　月額3,000円（税別）  
 追加ユーザー月額200円（税別）
 
-利用には、Google Apps for Work が別途必要です 
+利用には、Google Apps for Work が別途必要です  
 問い合わせ管理機能を付加したConnectBass上位プランも用意しています
 
 ###■  Google Apps for Work について
